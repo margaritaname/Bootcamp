@@ -1,5 +1,5 @@
 div{
-    border: dotted 3px  darkviolet;
+    border: none 3px  darkviolet;
     background-color: rgb(200, 163, 211);
     display:inline-block;
 }
